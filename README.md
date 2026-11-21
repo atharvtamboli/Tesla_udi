@@ -4,7 +4,7 @@
 
 Customize your car, explore challenging stunt arenas, perform jumps and aerial tricks, and test your driving skills through different physics modes.
 
-**[Play the Game](https://your-project.vercel.app)** | **[Report a Bug](https://github.com/YOUR_USERNAME/tesla-carbon-3d/issues)**
+**[Play the Game](https://tesla-carbon-3d.vercel.app/)** | **[Report a Bug](https://github.com/atharvtamboli/tesla-carbon-3d/issues)**
 
 > Replace the placeholder links with your actual Vercel and GitHub URLs after deployment.
 
